@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer, Data Engineer & Developer
 --------------------------------------------
 
-I hold a degree in Computer Engineering and currently work as a **Data Engineer and Developer** at **RM2**, building systems in **TypeScript** and processing data in **Python**. I’m enhancing my practical expertise in **TypeScript** while leading the development of a **new company system**. I also have specialization in data processing and experience managing low-code platforms such as **AppSheet** and **Power Apps**.  
+I hold a degree in Computer Engineering and work as a Software Developer and Automation and Data Processing Specialist, with solid experience in full-stack application development using TypeScript (front-end and back-end), integration with PostgreSQL and BigQuery, and building ETL pipelines and data processing in Python. My expertise is focused on data analysis, process automation, and operational reliability.
 
-My career includes experience as a **Technical Consultant** at **Tecnospeed - Wifire**, focusing on captive portal services for controllers and firewalls, and extensive knowledge in networking. At **SEG Tecnologia**, I worked as a **Network and Telecommunications Analyst**, conducting detailed infrastructure assessments to ensure the effective implementation of tailored solutions.  
+I worked as a Network & Infrastructure Software Engineer at Tecnospeed – Wifire, focusing on developing captive portal and hotspot platforms integrated with Wi-Fi controllers and corporate firewalls. In addition to configuring the infrastructure, I was involved in the development of the user authentication system, session control, reports, and network device integrations, always ensuring security, interoperability, and observability.
 
-In 2018, I was promoted to **Software Quality Analyst** at **Internews Sistemas**, where I created and led a new QA department, implementing processes and methodologies from the ground up. My journey began at the same company, starting as an intern and later moving to the support team, where I led projects that significantly improved external service operations.  
+At SEG Tecnologia, I served as an Infrastructure & VoIP Systems Engineer, responsible for designing and automating telecommunications infrastructure for clients, with a focus on IPBX servers based on Asterisk. I also led topology analysis, technical requirement definition, and integration between web systems (PHP) and voice and data infrastructure, with automated monitoring using Grafana and Zabbix.
 
-These experiences have shaped my career, providing me with a diverse set of skills in **computer engineering, data analysis, and system development**.
+I began my career at Internews Sistemas as an intern and was promoted to Quality Assurance Analyst (QA) in 2018, where I created and structured the company’s QA department. I defined processes, methodologies, and quality standards and worked through the validation and approval cycles of systems developed in Delphi and Java, using SQL, Firebird, and MySQL to ensure data traceability and auditing.
+
+Throughout my career, I have developed a multidisciplinary profile that integrates software engineering, infrastructure, automation, data, and quality, with a focus on reliability, scalability, and operational excellence.
 
 * 🌍  I'm based in Brazil  
 * ✉️  You can contact me at [xeltonjunior@gmail.com](mailto:xeltonjunior@gmail.com)  
